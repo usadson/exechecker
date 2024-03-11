@@ -1,0 +1,25 @@
+.vs
+.vscode
+.idea
+
+*.log
+*.tmp
+*tmp*
+*temp*
+
+# Directories
+target
+out
+bin
+obj
+cmake-build-*
+
+
+# Executables
+*.out
+*.exe
+*.so
+*.dylib
+*.lib
+*.rlib
+*.rdylib
